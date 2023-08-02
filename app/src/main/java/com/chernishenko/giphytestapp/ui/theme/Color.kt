@@ -1,0 +1,27 @@
+package com.chernishenko.giphytestapp.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Primary = Color(0xFFA7344D)
+val Secondary = Color(0xFF76565A)
+val Tertiary = Color(0xFF7530DF)
+val Error = Color(0xFFBA1A1A)
+val Background = Color(0xFFF8FDFF)
+val Outline = Color(0xFF847374)
+val OnPrimary = Color(0xFFFFFFFF)
+val OnSecondary = Color(0xFFFFFFFF)
+val OnTertiary = Color(0xFFFFFFFF)
+val OnError = Color(0xFFFFFFFF)
+val OnBackground = Color(0xFF001F25)
+val PrimaryContainer = Color(0xFFFFD9DD)
+val SecondaryContainer = Color(0xFFFFD9DD)
+val TertiaryContainer = Color(0xFFEBDCFF)
+val ErrorContainer = Color(0xFFFFDAD6)
+val Surface = Color(0xFFF8FDFF)
+val SurfaceVariant = Color(0xFFF4DDDF)
+val OnPrimaryContainer = Color(0xFF400012)
+val OnSecondaryContainer = Color(0xFF2C1518)
+val OnTertiaryContainer = Color(0xFF260059)
+val OnErrorContainer = Color(0xFF410002)
+val OnSurface = Color(0xFF001F25)
+val OnSurfaceVariant = Color(0xFF524344)

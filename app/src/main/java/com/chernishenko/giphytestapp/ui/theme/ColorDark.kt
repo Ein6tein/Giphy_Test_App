@@ -1,0 +1,27 @@
+package com.chernishenko.giphytestapp.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val DarkPrimary = Color(0xFFFFB2BB)
+val DarkSecondary = Color(0xFFFFB2BC)
+val DarkTertiary = Color(0xFFD4BBFF)
+val DarkError = Color(0xFFFFB4AB)
+val DarkBackground = Color(0xFF001F25)
+val DarkOutline = Color(0xFF9F8C8E)
+val DarkOnPrimary = Color(0xFF670022)
+val DarkOnSecondary = Color(0xFF5F1126)
+val DarkOnTertiary = Color(0xFF40008C)
+val DarkOnError = Color(0xFF690005)
+val DarkOnBackground = Color(0xFFA6EEFF)
+val DarkPrimaryContainer = Color(0xFF871B37)
+val DarkSecondaryContainer = Color(0xFF7D293B)
+val DarkTertiaryContainer = Color(0xFF5C00C3)
+val DarkErrorContainer = Color(0xFF93000A)
+val DarkSurface = Color(0xFF001F25)
+val DarkSurfaceVariant = Color(0xFF524344)
+val DarkOnPrimaryContainer = Color(0xFFFFD9DD)
+val DarkOnSecondaryContainer = Color(0xFFFFD9DD)
+val DarkOnTertiaryContainer = Color(0xFFEBDCFF)
+val DarkOnErrorContainer = Color(0xFFFFDAD6)
+val DarkOnSurface = Color(0xFFA6EEFF)
+val DarkOnSurfaceVariant = Color(0xFFD7C1C3)
